@@ -1,3 +1,4 @@
 /yep.c
 /cmake-build-debug/*
 !/cmake-build-debug/yep_5.exe
+.idea
